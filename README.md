@@ -1,6 +1,6 @@
 # 50 METRES
 
-[![Witches](http://img.youtube.com/vi/RdaknkQcfR4/0.jpg)](https://www.youtube.com/watch?v=RdaknkQcfR4)
+[![50 METRES](http://img.youtube.com/vi/RdaknkQcfR4/0.jpg)](https://www.youtube.com/watch?v=RdaknkQcfR4)
 
 ## 説明
 50m ほど走ってください。<br>
